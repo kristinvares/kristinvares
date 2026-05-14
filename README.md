@@ -18,7 +18,7 @@ Informatics student at TalTech University, Estonia.
 ## Projects 👩‍💻
 [Grocerly](https://github.com/jaaunt/grocerly-backend) -> full-stack grocery ordering app (Spring Boot + Vue.js)
 
-[WALLE Game](https://github.com/kristinvares/WALLE-game) -> RPG game built with LibGDX and Java (team project)
+[WALLE Game](https://github.com/kristinvares/WALLE-game) -> RPG game built with LibGDX and Java (grocerly project)
 
 
 
