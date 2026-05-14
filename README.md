@@ -23,7 +23,7 @@ Informatics student at TalTech University, Estonia.
 
 
 ## Let's connect
-[LinkedIn]([https://www.linkedin.com/in/kristin-vares-24a03220b/])
+[LinkedIn](https://www.linkedin.com/in/kristin-vares-24a03220b/)
 <!--
 **kristinvares/kristinvares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
