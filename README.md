@@ -1,9 +1,31 @@
-## Hi there 👋
+## Hi! I'm Kristin 👋
 
+## About me
+
+Informatics student at TalTech University, Estonia.
+
+## My skills
+
+- Python 🐍
+- Java
+- PostgreSQL
+- Spring Boot
+- Vue.js
+- HTML
+- CSS
+- Docker
+
+## Projects 👩‍💻
+[Grocerly](https://github.com/jaaunt/grocerly-backend) -> full-stack grocery ordering app (Spring Boot + Vue.js)
+
+[WALLE Game](https://github.com/kristinvares/WALLE-game) -> RPG game built with LibGDX and Java (team project)
+
+
+
+## Let's connect
+[LinkedIn]([https://www.linkedin.com/in/kristin-vares-24a03220b/])
 <!--
 **kristinvares/kristinvares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
